@@ -1,16 +1,19 @@
 I have completed my internship tasks at Digital Bhem, in Python Programming and here are the tasks I did during my internships.
+
 Project Highlights:
 
 -Music Player
 Song Label: Displays playback status.
 Volume Control: Adjustable volume slider.
 Main Loop: Ensures responsive UI.
+
 -Snake Game
 
 Initialization: Set up the Pygame window and grid.
 Snake Class: Manages movement and collisions.
 Food Class: Handles food placement and rendering.
 Main Loop: Updates game state and renders smoothly.
+
 -BMI Calculator
 
 Database: SQLite for user data.
